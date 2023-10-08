@@ -1,0 +1,18 @@
+# Fake Alarm clock version 1.0
+
+Step 1 - install playsound package on cmd before running this program.
+
+- pip3 install playsound 
+
+
+got error while installing package !?
+(refer these links):
+
+https://askubuntu.com/questions/1464697/unable-to-install-playsound-using-pip
+
+https://stackoverflow.com/questions/56627901/a-problem-occurred-in-initializing-mci-playsound-issues
+
+
+Step 2 - get to know ANSI codes now!
+
+https://stackoverflow.com/questions/37774983/clearing-the-screen-by-printing-a-character
